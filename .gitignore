@@ -1,0 +1,12 @@
+# KiCad lock files
+*.lck
+
+# Editor history / backup snapshots
+.history/
+_restore_backup_*/
+
+# Personal Claude Code settings (not shared)
+.claude/settings.local.json
+
+# Generated fabrication outputs (regenerate from source via export)
+production/
