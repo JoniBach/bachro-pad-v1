@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "keebach") (type "KiCad") (uri "${KIPRJMOD}/keebach.pretty") (options "") (descr ""))
+)
